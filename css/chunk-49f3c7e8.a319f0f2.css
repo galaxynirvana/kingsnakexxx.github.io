@@ -1,1 +1,0 @@
-ul{margin:0;padding:0}li{list-style:none}ul{zoom:1}ul:after{content:"";display:block;clear:both}.board{border:1px solid #a9a9a9;display:inline-block}.board ul:nth-of-type(3),.board ul:nth-of-type(6){border-bottom:1px solid #ff9800}.board ul li:nth-of-type(3),.board ul li:nth-of-type(6){border-right:1px solid #ff9800}.board li{float:left}
